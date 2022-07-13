@@ -1,0 +1,11 @@
+hello7
+hello4
+hello5
+uDestruktor aufgerufen
+-1700093811         -807685192          -1069992198         
+1962459436          319390800           -1854301592         
+-625917853          -1962686293         1853559775          
+188014586           -1693264048         412052998           
+1962459436
+Destruktor aufgerufen
+Destruktor aufgerufen

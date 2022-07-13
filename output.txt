@@ -1,0 +1,8 @@
+Destruktor aufgerufen
+32560               32560               
+32560               32560               
+32560               32560               
+32560               32560               
+32560
+Destruktor aufgerufen
+Destruktor aufgerufen
