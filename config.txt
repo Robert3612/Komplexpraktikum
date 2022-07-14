@@ -1,3 +1,4 @@
 row = 4
 culumn = 2
 distr = n
+type = s
